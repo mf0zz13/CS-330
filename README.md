@@ -1,5 +1,5 @@
 # CS-330
-CS-330 Course Work
+![3D Scene Screenshot](FinalProjectScene.png)
 ## How do I approach designing software?
 ### What new design skills has your work on the project helped you to craft?
 This project helped me reinforce modular design skills by separating scene elements such as shapes, textures, lighting, and camera behavior into manageable components that additional functionality could be added to independently. 
